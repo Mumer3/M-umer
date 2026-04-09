@@ -64,7 +64,5 @@
 
 - 🔹 TryHackMe Labs  
 - 🔹 Web Security Testing (XSS, SQLi)  
-- 🔹 Network Analysis & Packet Inspection  
-- 🔹 Recon & Information Gathering  
 
 ---
